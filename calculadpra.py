@@ -1,5 +1,5 @@
-numero_1 = 23.00
-numero_2 = 10.00
-numero_3 = 23.67
-total = numero_3 + numero_2 ** (numero_1)
+numero_1 = 2300
+numero_2 = 1000
+numero_3 = 2367
+total = numero_3 + numero_2 / (numero_1)
 print(total)
